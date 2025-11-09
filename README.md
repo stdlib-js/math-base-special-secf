@@ -67,7 +67,7 @@ To view installation and usage instructions specific to each branch build, be su
 var secf = require( '@stdlib/math-base-special-secf' );
 ```
 
-## secf( x )
+#### secf( x )
 
 Evaluates the [secant][trigonometric-functions] of a single-precision floating-point number (in radians).
 
