@@ -46,7 +46,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import secf from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-secf@deno/mod.js';
+import secf from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-secf@v0.1.1-deno/mod.js';
 ```
 
 #### secf( x )
@@ -84,7 +84,7 @@ v = secf( NaN );
 import uniform from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-array-uniform@deno/mod.js';
 import logEachMap from 'https://cdn.jsdelivr.net/gh/stdlib-js/console-log-each-map@deno/mod.js';
 import TWO_PI from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float32-two-pi@deno/mod.js';
-import secf from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-secf@deno/mod.js';
+import secf from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-secf@v0.1.1-deno/mod.js';
 
 var opts = {
     'dtype': 'float32'
